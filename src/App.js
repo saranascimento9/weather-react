@@ -67,7 +67,7 @@ export default function App() {
 
           <small class="open-source-link">
             <a
-              href="https://github.com/saranascimento9/weather-app-vanilla-week-7"
+              href="https://github.com/saranascimento9/weather-react"
               target="_blank"
               rel="noreferrer"
             >
